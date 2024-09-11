@@ -1,5 +1,4 @@
 interface Speaker {
-    id: number;
     name: string;
     photo: string;
     profile?: string;
@@ -32,12 +31,41 @@ interface Program {
 
 const program : Program[] = [
     {
-        "name": "Inauguración del Foro y palabras de bienvenida",
-        "hours": "10:00 - 10:30 Hrs",
+        name: "Inauguración del Foro y palabras de bienvenida",
+        hours: "10:00 - 10:30 Hrs",
+        speakers: [
+            {
+                name: "Ramón Alfaro",
+                photo: "/speakers/ramon_alfaro_seg.webp",
+                position: "Secretario de Desarrollo Económico y Sustentable de Guanajuato"
+            }, 
+            {
+                name: "Odracir Barquera",
+                photo: "/speakers/odracir_barquera.webp",
+                position: "Director General de la Asociación Mexicana de la industria Automotriz (AMIA)."
+            },           
+            {
+                name: "Bernd Rohde",
+                photo: "/speakers/bernd_rohde.webp",
+                position: "Director General y Miembro del Consejo de Administración de Italian German Exhibition Company Canada / Mexico"
+            },                                            
+        ]
     },
     {
-        "name": "Marco regulatorio de la Electromovilidad",
-        "hours": "10:30 - 11:30 Hrs",
+        name: "Marco regulatorio de la Electromovilidad",
+        hours: "10:30 - 11:30 Hrs",
+        speakers: [
+            {
+                name: "Ramón Alfaro",
+                photo: "/speakers/ramon_alfaro_seg.webp",
+                position: "Secretario de Desarrollo Económico y Sustentable de Guanajuato"
+            }, 
+            {
+                name: "Ignacio López Valdovinos",
+                photo: "/speakers/ingnacio_lopez.webp",
+                position: "Profesor en el Tecnológico Nacional de México"
+            }                                            
+        ]
     },
     {
         "name": "Logística y producción en la Electromovilidad",
