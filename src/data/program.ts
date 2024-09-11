@@ -95,17 +95,40 @@ const program : Program[] = [
         ]
     },
     {
-        "name": "Tendencias globales en la Electromovilidad",
-        "hours": "12:40 - 13:40 Hrs",
+        name: "Break",
+        hours: "12:40 - 12:50 Hrs",
     },
     {
-        "name": "Tecnología e innovación en la Electromovilidad",
-        "hours": "13:40 - 14:40 Hrs",
+        name: "Tendencias globales en la Electromovilidad",
+        hours: "12:50 - 13:50 Hrs",
+        description : "Sumérgete en las tendencias globales de la electromovilidad y descubre cómo está evolucionando la industria automotriz. Analizaremos los últimos avances en baterías y motores eléctricos, así como la expansión de la infraestructura de carga, y exploraremos cómo estos cambios están impulsando una movilidad más limpia y sostenible.",
+        speakers: [
+            {
+                name: "Asael Colunga",
+                photo: "/speakers/asaelc_colunga.webp",
+                position: "Licenciado en Comercio Exterior y Aduanas Maestría en Mercadotecnia"
+            }                                            
+        ]
+
     },
     {
-        "name": "Electromovilidad: Hacia un futuro sostenible",
-        "hours": "14:40 - 15:40 Hrs",
-    },
+        "name": "Electromovilidad: Tecnología e Innovación hacia un Futuro Sostenible",
+        "hours": "13:50 - 14:50 Hrs",
+        description : "Analizaremos las oportunidades y desafíos de la electromovilidad en el contexto global, así como los avances tecnológicos que están transformando la movilidad. Estas innovaciones están impulsando un futuro en el que los vehículos sean más eficientes y respetuosos con el medio ambiente.",
+        speakers: [
+            {
+                name: "Odracir Barquera",
+                photo: "/speakers/odracir_barquera.webp",
+                position: "Director General de la Asociación Mexicana de la industria Automotriz (AMIA)."
+            },
+            {
+                name: "Fermín Fernando",
+                photo: "/speakers/fermin_fernando.webp",
+                position: "Líder consultor"
+            }                                            
+        ]
+
+    }
 ]
 
 export default program;
