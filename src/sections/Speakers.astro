@@ -33,22 +33,31 @@ const i18n = getI18N(Astro.currentLocale);
         {speakers.map((speaker, i) => {
             if (speaker.profile) {
                 return (
+                <div class="bg-white shadow-lg rounded-lg overflow-hidden">
                     <div data-modal-target={`speaker-${i}`} data-modal-toggle={`speaker-${i}`} class='relative group overflow-hidden cursor-pointer'>
                         <img
                             class="group-hover:scale-105 transform transition-transform duration-300 rounded-lg w-full h-full"
                             src={speaker.photo}
                             alt={speaker.name}
                         />
-                        <div class="absolute top-0 h-full w-full flex flex-col justify-end bg-gradient-to-b from-black/10 via-black/60 to-black/80 rounded-lg text-center p-4">
-                            <h4 class="text-white text-lg font-semibold font-open-sans mt-2">
+                        {/* <div class="absolute top-0 h-full w-full flex flex-col justify-end bg-gradient-to-b from-black/10 via-black/60 to-black/80 rounded-lg text-center p-3">
+                            <p class="text-white text-xl font-semibold font-open-sans mt-2">
                                 {speaker.name}
-                            </h4>
-                            <p class="text-white text-base font-normal font-open-sans mt-1">
+                            </p>
+                            <p class="text-white text-sm font-normal font-open-sans mt-1">
                                 {speaker.position}
                             </p>
-                        </div>
+                        </div> */}
                     </div>
-
+                    <div class="p-4 text-center">
+                        <p class="text-xl font-semibold font-open-sans">
+                            {speaker.name}
+                        </p>
+                        <p class="text-sm font-normal font-open-sans">
+                            {speaker.position}
+                        </p>
+                    </div>
+                </div>
                     <div id={`speaker-${i}`} tabindex="-1" class="hidden fixed top-0 right-0 left-0 z-50 justify-center items-center w-full md:inset-0 h-[calc(100%-1rem)] max-h-full">
                         <div class="relative p-4 w-full max-w-2xl max-h-full">
                             <div class="relative bg-white rounded-lg shadow">
