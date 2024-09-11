@@ -129,7 +129,7 @@ const program : Program[] = [
             {
                 name: "Fermín Fernando",
                 photo: "/speakers/fermin_fernando.webp",
-                position: "Líder consultor"
+                position: "Director Tec Mobility Solutions Vicerrectoría de Educación Continua"
             }                                            
         ]
 

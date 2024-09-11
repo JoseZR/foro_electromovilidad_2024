@@ -75,7 +75,7 @@ const speaker: Speaker[] = [
       photo: "/speakers/fermin_fernando.webp",
       profile: [
           "Líder consultor en proyectos con empresas multinacionales en temas como aseguramiento de calidad, optimización de procesos productivos y logística, administración de proyectos en empresas de servicios entre otros. Más de 10 años de experiencia en implementación de metodologías de Administración de proyectos. Ha trabajado en la Dirección de Planeación y Evaluación de la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del estado de Tamaulipas. Es instructor y consultor líder para programas y diplomados de Educación Continua en México, Ecuador, Colombia y Chile entre otros. Actualmente es Director Institucional de TEC Mobility Solutions siendo esta, la iniciativa automotriz y de la movilidad de la Vicerrectoría de Educación Continua del TEC de Monterrey. "],
-      position: "Líder consultor"
+      position: "Director Tec Mobility Solutions Vicerrectoría de Educación Continua"
   }
   // {
   //     name: "",
