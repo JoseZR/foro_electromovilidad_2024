@@ -48,6 +48,11 @@ const program : Program[] = [
                 name: "Bernd Rohde",
                 photo: "/speakers/bernd_rohde.webp",
                 position: "Director General y Miembro del Consejo de Administración de Italian German Exhibition Company Canada / Mexico"
+            },  
+            {
+                name: "Carlos Talamantes",
+                photo: "/speakers/carlos_talamantes.webp",
+                position: "Presidente del Cluster Automotriz de Guanajuato - CLAUGTO"
             },                                            
         ]
     },
