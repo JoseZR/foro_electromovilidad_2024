@@ -69,12 +69,30 @@ const program : Program[] = [
         ]
     },
     {
-        "name": "Logística y producción en la Electromovilidad",
-        "hours": "11:30 - 12:30 Hrs",
+        name: "Break",
+        hours: "11:30 - 11:40 Hrs",
     },
     {
-        "name": "Break",
-        "hours": "12:30 - 12:40 Hrs",
+        name: "Logística y producción en la Electromovilidad",
+        hours: "11:40 - 12:40 Hrs",
+        description : "Explora cómo la electromovilidad está revolucionando la logística y la producción de vehículos en el mundo. Desde la cadena de suministro de baterías hasta la entrega de última milla, descubre cómo las empresas están adaptándose para satisfacer la creciente demanda de vehículos eléctricos.",
+        speakers: [
+            {
+                name: "Carolin Antoni",
+                photo: "/speakers/carolin_antoni.webp",
+                position: "Especialista en Educación para el Desarrollo Sostenible, Ciencias ambientales, Sistemas Socioecológicos, y Resiliencia"
+            }, 
+            {
+                name: "Elisa Crespo",
+                photo: "/speakers/elisa_crespo.webp",
+                position: "Presidenta Ejecutiva Clúster Automotriz Metropolitano A.C."
+            },
+            {
+                name: "Vidaur Mora",
+                photo: "/speakers/vidaur_mora.webp",
+                position: "Especialista en Cross Border Investment y Comercio Exterior"
+            }                                             
+        ]
     },
     {
         "name": "Tendencias globales en la Electromovilidad",
