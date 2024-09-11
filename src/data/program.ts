@@ -54,6 +54,7 @@ const program : Program[] = [
     {
         name: "Marco regulatorio de la Electromovilidad",
         hours: "10:30 - 11:30 Hrs",
+        description : "Descubre cómo los países pueden fomentar la electromovilidad con un marco legal y normativo innovador. Abordaremos temas clave como incentivos fiscales, estándares de seguridad, infraestructura de carga, reciclaje de baterías y la colaboración entre el sector público y privado. ",
         speakers: [
             {
                 name: "Ramón Alfaro",
