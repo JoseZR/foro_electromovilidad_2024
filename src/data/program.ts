@@ -111,7 +111,7 @@ const program : Program[] = [
             {
                 name: "Asael Colunga",
                 photo: "/speakers/asaelc_colunga.webp",
-                position: "Licenciado en Comercio Exterior y Aduanas Maestría en Mercadotecnia"
+                position: "Director de Internacionalización de COFOCE"
             }                                            
         ]
 

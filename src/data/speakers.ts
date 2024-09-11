@@ -68,7 +68,7 @@ const speaker: Speaker[] = [
       profile: [
           "Es Licenciado en Comercio Exterior y Aduanas, con una Maestría en Mercadotecnia. Con dos décadas de trayectoria en comercio internacional, ha adquirido experiencia en diversos sectores como calzado, automotriz, autopartes, metalmecánica y su proveeduría. Ha liderado equipos de trabajo en la promoción de la oferta exportable de los sectores productivos de Guanajuato, organizando ferias, misiones y eventos internacionales de renombre. Actualmente, dirige el área de Internacionalización en la COFOCE, organismo estatal encargado de la promoción de las exportaciones."
       ],
-      position: "Licenciado en Comercio Exterior y Aduanas Maestría en Mercadotecnia"
+      position: "Director de Internacionalización de COFOCE"
   },
   {
       name: "Fermín Fernando",
