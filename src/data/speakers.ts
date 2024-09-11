@@ -39,7 +39,7 @@ const speaker: Speaker[] = [
     profile: [
       "Profesor de tiempo completo en el Tecnológico Nacional de México desde 1982, con habilidades en formación de jóvenes, toma de decisiones, resolución de problemas, gestión de recursos y talento para la integración de equipos de trabajo. Ingeniero Industrial en Producción por el Instituto Tecnológico de Morelia, y Maestro en Educación por la Universidad Nacional de Educación a Distancia – UNED, España. Actualmente es Rector de la Universidad Politécnica de Guanajuato – UPG y miembro activo y colaborador de diversas instituciones de enseñanza superior. ",
     ],
-    position: "Profesor en el Tecnológico Nacional de México",
+    position: "Rector de la Universidad Politécnica de Guanajuato - UPG",
   },
   {
     name: "Carolin Antoni",
@@ -55,6 +55,28 @@ const speaker: Speaker[] = [
     profile: ["Ejecutiva del Clúster Automotriz Metropolitano A.C., con 24 años de experiencia en la industria automotriz y como asesora de estrategias de negocio para diversos estados y asociaciones del sector. Es Licenciada en Mercadotecnia por la UNAM y Maestra en Alta Dirección por el IPADE. Ha recibido múltiples reconocimientos, incluyendo el Assembly Siemens en dos ocasiones consecutivas por su contribución a la Transformación Digital en México y el Premio Nacional a la Calidad Automotriz. Es una destacada promotora y desarrolladora del Business Automotive Meeting (BAM), un evento clave para el desarrollo de la cadena de proveeduría del sector automotriz, que ha celebrado más de 10 ediciones. Actualmente, continúa impulsando proyectos enfocados en la Electromovilidad."],
     position: "Presidenta Ejecutiva Clúster Automotriz Metropolitano A.C.",
   },
+  {
+      name: "Vidaur Mora",
+      photo: "/speakers/vidaur_mora.webp",
+      profile: [
+          "Socio patrimonial de la firma Rivadeneyra Treviño, se especializa en Cross Border Investment y  Comercio Exterior; enfocado principalmente en atraer y asesorar inversión extranjera en México en sus procesos legales de establecimiento,  instalación y operación; para ello ha colaborado exitosamente en un importante número de proyectos de inversión para la instalación de plantas productivas en el sector automotriz, manufactura industrial, textil, agroalimentos, entre otros,  en diferentes estados de la República Mexicana. Es miembro activo del Clúster Automotriz Zona Centro.  Miembro de la IPBA (Inter-Pacific Bar Association) perteneciendo a su comité Cross Border Investment & International Trade."],
+      position: "Especialista en Cross Border Investment y Comercio Exterior",
+  },
+  {
+      name: "Asael Colunga",
+      photo: "/speakers/asaelc_colunga.webp",
+      profile: [
+          "Es Licenciado en Comercio Exterior y Aduanas, con una Maestría en Mercadotecnia. Con dos décadas de trayectoria en comercio internacional, ha adquirido experiencia en diversos sectores como calzado, automotriz, autopartes, metalmecánica y su proveeduría. Ha liderado equipos de trabajo en la promoción de la oferta exportable de los sectores productivos de Guanajuato, organizando ferias, misiones y eventos internacionales de renombre. Actualmente, dirige el área de Internacionalización en la COFOCE, organismo estatal encargado de la promoción de las exportaciones."
+      ],
+      position: "Licenciado en Comercio Exterior y Aduanas Maestría en Mercadotecnia"
+  },
+  {
+      name: "Fermín Fernando",
+      photo: "/speakers/fermin_fernando.webp",
+      profile: [
+          "Líder consultor en proyectos con empresas multinacionales en temas como aseguramiento de calidad, optimización de procesos productivos y logística, administración de proyectos en empresas de servicios entre otros. Más de 10 años de experiencia en implementación de metodologías de Administración de proyectos. Ha trabajado en la Dirección de Planeación y Evaluación de la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del estado de Tamaulipas. Es instructor y consultor líder para programas y diplomados de Educación Continua en México, Ecuador, Colombia y Chile entre otros. Actualmente es Director Institucional de TEC Mobility Solutions siendo esta, la iniciativa automotriz y de la movilidad de la Vicerrectoría de Educación Continua del TEC de Monterrey. "],
+      position: "Líder consultor"
+  }
   // {
   //     name: "",
   //     photo: "/speakers/elisa_crespo.webp",

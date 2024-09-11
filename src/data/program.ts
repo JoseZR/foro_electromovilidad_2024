@@ -64,7 +64,7 @@ const program : Program[] = [
             {
                 name: "Ignacio López Valdovinos",
                 photo: "/speakers/ingnacio_lopez.webp",
-                position: "Profesor en el Tecnológico Nacional de México"
+                position: "Rector de la Universidad Politécnica de Guanajuato - UPG"
             }                                            
         ]
     },
