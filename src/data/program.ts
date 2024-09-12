@@ -31,7 +31,7 @@ interface Program {
 
 const program : Program[] = [
     {
-        name: "Inauguración del Foro y palabras de bienvenida",
+        name: "Inauguración y Bienvenida al Foro Electromovilidad y Semiconductores 2024",
         hours: "10:00 - 10:30 Hrs",
         speakers: [
             // {
