@@ -45,9 +45,9 @@ const program : Program[] = [
                 position: "Director General de la Asociación Mexicana de la industria Automotriz (AMIA)."
             },           
             {
-                name: "Bernd Rohde",
-                photo: "/speakers/bernd_rohde.webp",
-                position: "Director General y Miembro del Consejo de Administración de Italian German Exhibition Company Canada / Mexico"
+                name: "Azul Ogazón",
+                photo: "/speakers/azul_ogazon.webp",
+                position: "Subdirectora General Italian German Exhibition Company Mexico"
             },  
             {
                 name: "Carlos Talamantes",
