@@ -34,11 +34,11 @@ const program : Program[] = [
         name: "Inauguración del Foro y palabras de bienvenida",
         hours: "10:00 - 10:30 Hrs",
         speakers: [
-            {
-                name: "Ramón Alfaro",
-                photo: "/speakers/ramon_alfaro_seg.webp",
-                position: "Secretario de Desarrollo Económico y Sustentable de Guanajuato"
-            }, 
+            // {
+            //     name: "Ramón Alfaro",
+            //     photo: "/speakers/ramon_alfaro_seg.webp",
+            //     position: "Secretario de Desarrollo Económico y Sustentable de Guanajuato"
+            // }, 
             {
                 name: "Odracir Barquera",
                 photo: "/speakers/odracir_barquera.webp",
@@ -61,11 +61,11 @@ const program : Program[] = [
         hours: "10:30 - 11:30 Hrs",
         description : "Descubre cómo los países pueden fomentar la electromovilidad con un marco legal y normativo innovador. Abordaremos temas clave como incentivos fiscales, estándares de seguridad, infraestructura de carga, reciclaje de baterías y la colaboración entre el sector público y privado. ",
         speakers: [
-            {
-                name: "Ramón Alfaro",
-                photo: "/speakers/ramon_alfaro_seg.webp",
-                position: "Secretario de Desarrollo Económico y Sustentable de Guanajuato"
-            }, 
+            // {
+            //     name: "Ramón Alfaro",
+            //     photo: "/speakers/ramon_alfaro_seg.webp",
+            //     position: "Secretario de Desarrollo Económico y Sustentable de Guanajuato"
+            // }, 
             {
                 name: "Ignacio López Valdovinos",
                 photo: "/speakers/ingnacio_lopez.webp",
