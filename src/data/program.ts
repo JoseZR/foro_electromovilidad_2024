@@ -85,7 +85,7 @@ const program : Program[] = [
             {
                 name: "Carolin Antoni",
                 photo: "/speakers/carolin_antoni.webp",
-                position: "Especialista en Educación para el Desarrollo Sostenible, Ciencias ambientales, Sistemas Socioecológicos, y Resiliencia"
+                position: "Gerente de Comercio & Inversión y Sostenibilidad - AHK México"
             }, 
             {
                 name: "Elisa Crespo",

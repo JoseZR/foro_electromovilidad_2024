@@ -47,7 +47,7 @@ const speaker: Speaker[] = [
     profile: [
       "Es especialista en Educación para el Desarrollo Sostenible y cuenta con una sólida trayectoria de más de 20 años en temas ambientales, con un enfoque en sostenibilidad desde 2008. Ha colaborado con diversas instituciones académicas, como el Instituto Fraunhofer de Sistemas de Energía Solar ISE, así como en el sector privado. Además, ha participado activamente en grupos interdisciplinarios, enfocándose en métodos participativos que involucran a diferentes actores para promover el desarrollo sostenible. Académicamente, es doctora en Ciencias Ambientales y tiene una maestría en la misma disciplina. Es diplomada en Ingeniería (FH) en Protección Ambiental (Umweltsicherung) y especialista en Educación para el Desarrollo Sostenible, Ciencias Ambientales, Sistemas Socioecológicos y Resiliencia. También posee certificados en Educación para el Desarrollo Sostenible y Coaching Empresarial.",
     ],
-    position: "Especialista en Educación para el Desarrollo Sostenible, Ciencias ambientales, Sistemas Socioecológicos, y Resiliencia",
+    position: "Gerente de Comercio & Inversión y Sostenibilidad - AHK México",
   },
   {
     name: "Elisa Crespo",
