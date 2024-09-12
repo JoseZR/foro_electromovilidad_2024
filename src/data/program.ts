@@ -78,8 +78,25 @@ const program : Program[] = [
         hours: "11:30 - 11:40 Hrs",
     },
     {
-        name: "Logística y producción en la Electromovilidad",
+        name: "Tendencias globales en la Electromovilidad",
         hours: "11:40 - 12:40 Hrs",
+        description : "Sumérgete en las tendencias globales de la electromovilidad y descubre cómo está evolucionando la industria automotriz. Analizaremos los últimos avances en baterías y motores eléctricos, así como la expansión de la infraestructura de carga, y exploraremos cómo estos cambios están impulsando una movilidad más limpia y sostenible.",
+        speakers: [
+            {
+                name: "Asael Colunga",
+                photo: "/speakers/asaelc_colunga.webp",
+                position: "Director de Internacionalización de COFOCE"
+            }                                            
+        ]
+
+    },
+    {
+        name: "Break",
+        hours: "12:40 - 12:50 Hrs",
+    },
+    {
+        name: "Logística y producción en la Electromovilidad",
+        hours: "12:50 - 13:50 Hrs",
         description : "Explora cómo la electromovilidad está revolucionando la logística y la producción de vehículos en el mundo. Desde la cadena de suministro de baterías hasta la entrega de última milla, descubre cómo las empresas están adaptándose para satisfacer la creciente demanda de vehículos eléctricos.",
         speakers: [
             {
@@ -98,23 +115,6 @@ const program : Program[] = [
                 position: "Especialista en Cross Border Investment y Comercio Exterior"
             }                                             
         ]
-    },
-    {
-        name: "Break",
-        hours: "12:40 - 12:50 Hrs",
-    },
-    {
-        name: "Tendencias globales en la Electromovilidad",
-        hours: "12:50 - 13:50 Hrs",
-        description : "Sumérgete en las tendencias globales de la electromovilidad y descubre cómo está evolucionando la industria automotriz. Analizaremos los últimos avances en baterías y motores eléctricos, así como la expansión de la infraestructura de carga, y exploraremos cómo estos cambios están impulsando una movilidad más limpia y sostenible.",
-        speakers: [
-            {
-                name: "Asael Colunga",
-                photo: "/speakers/asaelc_colunga.webp",
-                position: "Director de Internacionalización de COFOCE"
-            }                                            
-        ]
-
     },
     {
         "name": "Electromovilidad: Tecnología e Innovación hacia un Futuro Sostenible",
