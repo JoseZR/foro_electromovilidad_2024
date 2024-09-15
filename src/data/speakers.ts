@@ -76,6 +76,14 @@ const speaker: Speaker[] = [
       profile: [
           "Líder consultor en proyectos con empresas multinacionales en temas como aseguramiento de calidad, optimización de procesos productivos y logística, administración de proyectos en empresas de servicios entre otros. Más de 10 años de experiencia en implementación de metodologías de Administración de proyectos. Ha trabajado en la Dirección de Planeación y Evaluación de la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del estado de Tamaulipas. Es instructor y consultor líder para programas y diplomados de Educación Continua en México, Ecuador, Colombia y Chile entre otros. Actualmente es Director Institucional de TEC Mobility Solutions siendo esta, la iniciativa automotriz y de la movilidad de la Vicerrectoría de Educación Continua del TEC de Monterrey. "],
       position: "Director Tec Mobility Solutions Vicerrectoría de Educación Continua"
+  },
+   {
+      name: "Carlos Talamantes",
+      photo: "/speakers/carlos_talamantes.webp",
+      profile: [
+          "Egresado en Ingeniería Industrial por el Instituto Tecnológico de Estudios Superiores de Monterrey – Campus Saltillo, cuenta también con una Maestría en Ingeniería, Calidad y Productividad por la institución. Desde hace 15 años colabora en la filial mexicana de la empresa alemana Witzenmann, de la que actualmente es Director General. Anteriormente colaboró con la empresa de tractores John Deere por 17 años. Bajo su dirección, Witzenmann México logró el reconocimiento como uno de los 10 Mejores Lugares para Trabajar en la Región del Bajío. Witzenmann México es una empresa internacional de origen alemán, que se dedica a la producción de flexibles metálicos para los sistemas de escape de los autos y próximamente tuberías metálicas especializadas. Witzenmann cuenta con 4,500 empleados a nivel mundial, 200 de ellos en su filial de Apaseo."
+      ],
+      position: "Presidente del Cluster Automotriz de Guanajuato - CLAUGTO"
   }
   // {
   //     name: "",
