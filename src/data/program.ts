@@ -121,7 +121,7 @@ const program : Program[] = [
             {
                 name: "Elisa Crespo",
                 photo: "/speakers/elisa_crespo.webp",
-                position: "Presidenta Ejecutiva en Cluster Automotriz Regional Estado de México y CDMX Consejera de la Red de Clusters Automotriz de México."
+                position: "Presidenta Ejecutiva en Cluster Automotriz Regional de Hidalgo, Ciudad de México y Estado de México"
             },
             {
                 name: "Vidaur Mora",

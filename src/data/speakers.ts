@@ -53,7 +53,7 @@ const speaker: Speaker[] = [
     name: "Elisa Crespo",
     photo: "/speakers/elisa_crespo.webp",
     profile: ["Ejecutiva del Clúster Automotriz Metropolitano A.C., con 24 años de experiencia en la industria automotriz y como asesora de estrategias de negocio para diversos estados y asociaciones del sector. Es Licenciada en Mercadotecnia por la UNAM y Maestra en Alta Dirección por el IPADE. Ha recibido múltiples reconocimientos, incluyendo el Assembly Siemens en dos ocasiones consecutivas por su contribución a la Transformación Digital en México y el Premio Nacional a la Calidad Automotriz. Es una destacada promotora y desarrolladora del Business Automotive Meeting (BAM), un evento clave para el desarrollo de la cadena de proveeduría del sector automotriz, que ha celebrado más de 10 ediciones. Actualmente, continúa impulsando proyectos enfocados en la Electromovilidad."],
-    position: "Presidenta Ejecutiva en Cluster Automotriz Regional Estado de México y CDMX Consejera de la Red de Clusters Automotriz de México.",
+    position: "Presidenta Ejecutiva en Cluster Automotriz Regional de Hidalgo, Ciudad de México y Estado de México",
   },
   {
       name: "Vidaur Mora",
