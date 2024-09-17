@@ -70,7 +70,12 @@ const program : Program[] = [
                 name: "Ignacio López Valdovinos",
                 photo: "/speakers/ingnacio_lopez.webp",
                 position: "Rector de la Universidad Politécnica de Guanajuato - UPG"
-            }                                            
+            },
+            {
+                name: "Diana Avalos",
+                photo: "/speakers/diana_avalos.webp",
+                position: "Directora Ejecutiva de la Asociación Mexicana de Impulso al Vehículo Eléctrico - AMIVE"
+            }                                               
         ]
     },
     {
