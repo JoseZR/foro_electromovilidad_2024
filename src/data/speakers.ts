@@ -84,6 +84,14 @@ const speaker: Speaker[] = [
           "Egresado en Ingeniería Industrial por el Instituto Tecnológico de Estudios Superiores de Monterrey – Campus Saltillo, cuenta también con una Maestría en Ingeniería, Calidad y Productividad por la institución. Desde hace 15 años colabora en la filial mexicana de la empresa alemana Witzenmann, de la que actualmente es Director General. Anteriormente colaboró con la empresa de tractores John Deere por 17 años. Bajo su dirección, Witzenmann México logró el reconocimiento como uno de los 10 Mejores Lugares para Trabajar en la Región del Bajío. Witzenmann México es una empresa internacional de origen alemán, que se dedica a la producción de flexibles metálicos para los sistemas de escape de los autos y próximamente tuberías metálicas especializadas. Witzenmann cuenta con 4,500 empleados a nivel mundial, 200 de ellos en su filial de Apaseo."
       ],
       position: "Presidente del Cluster Automotriz de Guanajuato - CLAUGTO"
+  },
+  {
+      name: "Carlos Gutiérrez",
+      photo: "/speakers/carlos_gutierrez.webp",
+      profile: [
+          "Director de Asuntos Gubernamentales y Externos de BMW Group México. Responsable de comunicación política y representante de la empresa ante entidades gubernamentales y no gubernamentales, manejo de políticas públicas sobre sustentabilidad, regulaciones federales y estatales, tratados comerciales y responsabilidad social corporativa. Con una trayectoria profesional de más de 30 años, se ha desempeñado en diversas posiciones dentro de la Industria Automotriz en áreas como Comercio Internacional, Cadena de Suministro, Logística y Relaciones Institucionales. Ha sido consultor para diferentes proyectos de inversión extranjera, negocios internacionales y tratados comerciales en empresas relacionadas con la industria automotriz, es miembro del consejo de la AMIA."
+      ],
+      position: "Director de Asuntos Gubernamentales y Externos de BMW Group México"
   }
   // {
   //     name: "",

@@ -91,9 +91,18 @@ const program : Program[] = [
                 name: "Asael Colunga",
                 photo: "/speakers/asaelc_colunga.webp",
                 position: "Director de Internacionalización de COFOCE"
-            }                                            
+            },
+            {
+                name: "Carlos Gutiérrez",
+                photo: "/speakers/carlos_gutierrez.webp",
+                position: "Director de Asuntos Gubernamentales y Externos de BMW Group México"
+            },
+            {
+                name: "Carlos Talamantes",
+                photo: "/speakers/carlos_talamantes.webp",
+                position: "Presidente del Cluster Automotriz de Guanajuato - CLAUGTO"
+            },                                            
         ]
-
     },
     {
         name: "Break",
@@ -135,7 +144,12 @@ const program : Program[] = [
                 name: "Fermín Fernando",
                 photo: "/speakers/fermin_fernando.webp",
                 position: "Director Tec Mobility Solutions Vicerrectoría de Educación Continua"
-            }                                            
+            },
+            {
+                name: "Carlos Talamantes",
+                photo: "/speakers/carlos_talamantes.webp",
+                position: "Presidente del Cluster Automotriz de Guanajuato - CLAUGTO"
+            },                                        
         ]
 
     }
