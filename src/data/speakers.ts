@@ -34,6 +34,12 @@ const speaker: Speaker[] = [
       "Director General de la Asociación Mexicana de la industria Automotriz (AMIA).",
   },
   {
+    name: "Azul Ogazón",
+    photo: "/speakers/azul_ogazon.webp",
+    profile: ["Con más de 10 años de experiencia en Negocios Internacionales, Azul Ogazón se ha desempeñado como Directora de Proyectos, liderando eventos como Industrial Transformation Mexico, Americas’ Mobility of the Future y MEM Industrial. Actualmente cuenta con el cargo de Subdirectora General en IGECo Mexico, donde supervisa y coordina las actividades de las diversas ferias organizadas por la misma institución, así como la participación de México en las ferias de Deutsche Messe e Italian Exhibition Group. Antes de incorporarse a IGECo Mexico colaboró en ProMéxico en el área de la Alianza del Pacífico, dirigió la representación de ProMéxico en el Norte de California y laboró en la oficina de representación de Singapur. Tiene una Maestría en Políticas Públicas, con especialización en Análisis y Políticas Económicas, de la Escuela de Políticas Públicas Lee Kuan Yew, en la Universidad Nacional de Singapur, y una Licenciatura en Economía del Centro de Investigación y Docencia Económicas (CIDE), México."], 
+    position: "Subdirectora General en Italian German Exhibition Company Mexico",
+  },
+  {
     name: "Ignacio López Valdovinos",
     photo: "/speakers/ingnacio_lopez.webp",
     profile: [
@@ -100,12 +106,7 @@ const speaker: Speaker[] = [
     position:
       "Director de Asuntos Gubernamentales y Externos de BMW Group México",
   },
-  {
-    name: "Azul Ogazón",
-    photo: "/speakers/azul_ogazon.webp",
-    profile: ["Con más de 10 años de experiencia en Negocios Internacionales, Azul Ogazón se ha desempeñado como Directora de Proyectos, liderando eventos como Industrial Transformation Mexico, Americas’ Mobility of the Future y MEM Industrial. Actualmente cuenta con el cargo de Subdirectora General en IGECo Mexico, donde supervisa y coordina las actividades de las diversas ferias organizadas por la misma institución, así como la participación de México en las ferias de Deutsche Messe e Italian Exhibition Group. Antes de incorporarse a IGECo Mexico colaboró en ProMéxico en el área de la Alianza del Pacífico, dirigió la representación de ProMéxico en el Norte de California y laboró en la oficina de representación de Singapur. Tiene una Maestría en Políticas Públicas, con especialización en Análisis y Políticas Económicas, de la Escuela de Políticas Públicas Lee Kuan Yew, en la Universidad Nacional de Singapur, y una Licenciatura en Economía del Centro de Investigación y Docencia Económicas (CIDE), México."], 
-    position: "Subdirectora General en Italian German Exhibition Company Mexico",
-  },
+  
   // {
   //     name: "",
   //     photo: "/speakers/elisa_crespo.webp",
