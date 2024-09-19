@@ -151,7 +151,38 @@ const program : Program[] = [
                 position: "Presidente del Cluster Automotriz de Guanajuato - CLAUGTO"
             },                                        
         ]
-
+    },
+    {
+        "name": "Lanzamiento del Diplomado en Electromovilidad y Firma de Convenio UVEG - IGECO MÉXICO",
+        "hours": "14:50 -15:40",
+        description : "",
+        speakers: [
+            {
+                name: "Aldelmo Emmanuel Reyes Pablo",
+                photo: "",
+                position: "Subsecretario de Educación Media Superior y Superior"
+            },
+            {
+                name: "Ricardo Narváez Martínez",
+                photo: "",
+                position: "Rector de la Universidad Virtual del Estado de Guanajuato"
+            },
+            {
+                name: "Azul Ogazón",
+                photo: "/speakers/azul_ogazon.webp",
+                position: "Subdirectora General Italian German Exhibition Company Mexico"
+            },  
+            {
+                name: "Jorge de Jesús Lozoya Santos",
+                photo: "",
+                position: "Profesor Investigador de GI • EIC Mecatrónica del ITM Campus Monterrey"
+            },
+            {
+                name: "Ernesto Lugo Ledesma",
+                photo: "",
+                position: "Rector del TecNM en Celaya"
+            }                                      
+        ]
     }
 ]
 
