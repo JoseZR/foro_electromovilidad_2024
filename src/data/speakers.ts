@@ -97,15 +97,15 @@ const speaker: Speaker[] = [
     ],
     position: "Presidente del Cluster Automotriz de Guanajuato - CLAUGTO",
   },
-  {
-    name: "Carlos Gutiérrez",
-    photo: "/speakers/carlos_gutierrez.webp",
-    profile: [
-      "Director de Asuntos Gubernamentales y Externos de BMW Group México. Responsable de comunicación política y representante de la empresa ante entidades gubernamentales y no gubernamentales, manejo de políticas públicas sobre sustentabilidad, regulaciones federales y estatales, tratados comerciales y responsabilidad social corporativa. Con una trayectoria profesional de más de 30 años, se ha desempeñado en diversas posiciones dentro de la Industria Automotriz en áreas como Comercio Internacional, Cadena de Suministro, Logística y Relaciones Institucionales. Ha sido consultor para diferentes proyectos de inversión extranjera, negocios internacionales y tratados comerciales en empresas relacionadas con la industria automotriz, es miembro del consejo de la AMIA.",
-    ],
-    position:
-      "Director de Asuntos Gubernamentales y Externos de BMW Group México",
-  },
+  // {
+  //   name: "Carlos Gutiérrez",
+  //   photo: "/speakers/carlos_gutierrez.webp",
+  //   profile: [
+  //     "Director de Asuntos Gubernamentales y Externos de BMW Group México. Responsable de comunicación política y representante de la empresa ante entidades gubernamentales y no gubernamentales, manejo de políticas públicas sobre sustentabilidad, regulaciones federales y estatales, tratados comerciales y responsabilidad social corporativa. Con una trayectoria profesional de más de 30 años, se ha desempeñado en diversas posiciones dentro de la Industria Automotriz en áreas como Comercio Internacional, Cadena de Suministro, Logística y Relaciones Institucionales. Ha sido consultor para diferentes proyectos de inversión extranjera, negocios internacionales y tratados comerciales en empresas relacionadas con la industria automotriz, es miembro del consejo de la AMIA.",
+  //   ],
+  //   position:
+  //     "Director de Asuntos Gubernamentales y Externos de BMW Group México",
+  // },
   
   // {
   //     name: "",

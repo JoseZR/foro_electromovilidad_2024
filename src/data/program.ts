@@ -92,11 +92,11 @@ const program : Program[] = [
                 photo: "/speakers/asaelc_colunga.webp",
                 position: "Director de Internacionalización de COFOCE"
             },
-            {
-                name: "Carlos Gutiérrez",
-                photo: "/speakers/carlos_gutierrez.webp",
-                position: "Director de Asuntos Gubernamentales y Externos de BMW Group México"
-            },
+            // {
+            //     name: "Carlos Gutiérrez",
+            //     photo: "/speakers/carlos_gutierrez.webp",
+            //     position: "Director de Asuntos Gubernamentales y Externos de BMW Group México"
+            // },
             {
                 name: "Carlos Talamantes",
                 photo: "/speakers/carlos_talamantes.webp",
