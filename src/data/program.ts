@@ -159,12 +159,12 @@ const program : Program[] = [
         speakers: [
             {
                 name: "Aldelmo Emmanuel Reyes Pablo",
-                photo: "",
+                photo: "/speakers/profile.svg",
                 position: "Subsecretario de Educación Media Superior y Superior"
             },
             {
                 name: "Ricardo Narváez Martínez",
-                photo: "",
+                photo: "/speakers/profile.svg",
                 position: "Rector de la Universidad Virtual del Estado de Guanajuato"
             },
             {
@@ -174,12 +174,12 @@ const program : Program[] = [
             },  
             {
                 name: "Jorge de Jesús Lozoya Santos",
-                photo: "",
+                photo: "/speakers/profile.svg",
                 position: "Profesor Investigador de GI • EIC Mecatrónica del ITM Campus Monterrey"
             },
             {
                 name: "Ernesto Lugo Ledesma",
-                photo: "",
+                photo: "/speakers/profile.svg",
                 position: "Rector del TecNM en Celaya"
             }                                      
         ]
