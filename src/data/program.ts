@@ -53,7 +53,12 @@ const program : Program[] = [
                 name: "Carlos Talamantes",
                 photo: "/speakers/carlos_talamantes.webp",
                 position: "Presidente del Cluster Automotriz de Guanajuato - CLAUGTO"
-            },                                            
+            },  
+            {
+                name: "Luis Andrés Álvarez Aranda",
+                photo: "/speakers/profile.svg",
+                position: "Subsecretario de Empleo y Formación Laboral Gobierno del Estado de Guanajuato"
+            },                                          
         ]
     },
     {
@@ -75,7 +80,12 @@ const program : Program[] = [
                 name: "Diana Avalos",
                 photo: "/speakers/diana_avalos.webp",
                 position: "Directora Ejecutiva de la Asociación Mexicana de Impulso al Vehículo Eléctrico - AMIVE"
-            }                                               
+            },
+            {
+                name: "Alfredo Porras Orozco",
+                photo: "/speakers/profile.svg",
+                position: "Director General de Atracción de Inversiones Gobierno del Estado de Guanajuato"
+            },                                                           
         ]
     },
     {
