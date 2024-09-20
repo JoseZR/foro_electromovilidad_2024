@@ -164,7 +164,7 @@ const program : Program[] = [
             },
             {
                 name: "Ricardo Narváez Martínez",
-                photo: "/speakers/profile.svg",
+                photo: "/speakers/ricardo_narvaez.webp",
                 position: "Rector de la Universidad Virtual del Estado de Guanajuato"
             },
             {
@@ -174,12 +174,12 @@ const program : Program[] = [
             },  
             {
                 name: "Jorge de Jesús Lozoya Santos",
-                photo: "/speakers/profile.svg",
+                photo: "/speakers/jesus_lozoya.webp",
                 position: "Profesor Investigador de GI • EIC Mecatrónica del ITM Campus Monterrey"
             },
             {
                 name: "Ernesto Lugo Ledesma",
-                photo: "/speakers/profile.svg",
+                photo: "/speakers/ernesto_ledesma.webp",
                 position: "Rector del TecNM en Celaya"
             }                                      
         ]
