@@ -83,7 +83,7 @@ const program : Program[] = [
             },
             {
                 name: "Alfredo Porras Orozco",
-                photo: "/speakers/profile.svg",
+                photo: "/speakers/alfredo_porras.webp",
                 position: "Director General de Atracción de Inversiones Gobierno del Estado de Guanajuato"
             },                                                           
         ]
