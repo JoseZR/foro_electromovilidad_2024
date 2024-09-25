@@ -98,20 +98,21 @@ const program : Program[] = [
         description : "Sumérgete en las tendencias globales de la electromovilidad y descubre cómo está evolucionando la industria automotriz. Analizaremos los últimos avances en baterías y motores eléctricos, así como la expansión de la infraestructura de carga, y exploraremos cómo estos cambios están impulsando una movilidad más limpia y sostenible.",
         speakers: [
             {
-                name: "Asael Colunga",
-                photo: "/speakers/asaelc_colunga.webp",
-                position: "Director de Internacionalización de COFOCE"
-            },
+                name: "Carlos Talamantes",
+                photo: "/speakers/carlos_talamantes.webp",
+                position: "Presidente del Cluster Automotriz de Guanajuato - CLAUGTO"
+            }, 
+            {
+                name: "Gerardo Romero",
+                photo: "/speakers/gerardo_romero.webp",
+                position: "Director General Grupo ASTEC"
+            }, 
             // {
             //     name: "Carlos Gutiérrez",
             //     photo: "/speakers/carlos_gutierrez.webp",
             //     position: "Director de Asuntos Gubernamentales y Externos de BMW Group México"
             // },
-            {
-                name: "Carlos Talamantes",
-                photo: "/speakers/carlos_talamantes.webp",
-                position: "Presidente del Cluster Automotriz de Guanajuato - CLAUGTO"
-            },                                            
+                                                       
         ]
     },
     {

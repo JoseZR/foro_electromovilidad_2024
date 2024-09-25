@@ -105,6 +105,15 @@ const speaker: Speaker[] = [
     ],
     position: "Directora Ejecutiva de la Asociación Mexicana de Impulso al Vehículo Eléctrico - AMIVE",
   },
+  {
+      name: "Gerardo Romero",
+      photo: "/speakers/gerardo_romero.webp",
+      profile: [
+          "Estudió Ingeniería en Comunicaciones y Electrónica en el IPN, además de una Maestría en Administración de Empresas y una Especialidad en Ingeniería Financiera en la UVM. Ha trabajado en empresas como Sony, Phillips, Honeywell, y Alcatel en áreas de ingeniería y mantenimiento. Fue Subgerente en Bancomext, y en Automation Consulting Services (ACS) coordinó más de 100 proyectos de automatización para empresas como Toyota y Samsung. En ProMéxico, fue Director de Promoción Sectorial e Inteligencia de Negocios para los sectores Automotriz, Electrónico y Metalmecánico. Actualmente, es Director General de Grupo Astec, especializada en consultoría y eventos industriales.En 2022 y 2024, trabajó para USAID y el gobierno de Guatemala en consultorías sobre las industrias de autopartes y manufactura electrónica, identificando oportunidades clave para la región. Ha publicado análisis sectoriales en Bancomext y ProMéxico." ],
+      position: "Director General Grupo ASTEC"
+  }
+
+
   // {
   //   name: "Carlos Gutiérrez",
   //   photo: "/speakers/carlos_gutierrez.webp",
