@@ -129,11 +129,16 @@ const program : Program[] = [
                 photo: "/speakers/carolin_antoni.webp",
                 position: "Gerente de Comercio & Inversión y Sostenibilidad - AHK México"
             }, 
+            // {
+            //     name: "Elisa Crespo",
+            //     photo: "/speakers/elisa_crespo.webp",
+            //     position: "Presidenta Ejecutiva en Cluster Automotriz Regional de Hidalgo, Ciudad de México y Estado de México"
+            // },
             {
-                name: "Elisa Crespo",
-                photo: "/speakers/elisa_crespo.webp",
-                position: "Presidenta Ejecutiva en Cluster Automotriz Regional de Hidalgo, Ciudad de México y Estado de México"
-            },
+                name: "Gerardo Romero",
+                photo: "/speakers/gerardo_romero.webp",
+                position: "Director General Grupo ASTEC"
+            }, 
             {
                 name: "Vidaur Mora",
                 photo: "/speakers/vidaur_mora.webp",
