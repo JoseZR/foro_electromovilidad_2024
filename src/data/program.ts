@@ -56,7 +56,7 @@ const program : Program[] = [
             },  
             {
                 name: "Luis Andrés Álvarez Aranda",
-                photo: "/speakers/profile.svg",
+                photo: "/speakers/luis_aranda.webp",
                 position: "Subsecretario de Empleo y Formación Laboral Gobierno del Estado de Guanajuato"
             },                                          
         ]
