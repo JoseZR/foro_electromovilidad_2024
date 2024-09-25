@@ -71,21 +71,27 @@ const program : Program[] = [
             //     photo: "/speakers/ramon_alfaro_seg.webp",
             //     position: "Secretario de Desarrollo Económico y Sustentable de Guanajuato"
             // }, 
+            // {
+            //     name: "Diana Avalos",
+            //     photo: "/speakers/diana_avalos.webp",
+            //     position: "Directora Ejecutiva de la Asociación Mexicana de Impulso al Vehículo Eléctrico - AMIVE"
+            // },
             {
                 name: "Ignacio López Valdovinos",
                 photo: "/speakers/ingnacio_lopez.webp",
                 position: "Rector de la Universidad Politécnica de Guanajuato - UPG"
             },
-            {
-                name: "Diana Avalos",
-                photo: "/speakers/diana_avalos.webp",
-                position: "Directora Ejecutiva de la Asociación Mexicana de Impulso al Vehículo Eléctrico - AMIVE"
-            },
+           
             {
                 name: "Alfredo Porras Orozco",
                 photo: "/speakers/alfredo_porras.webp",
                 position: "Director General de Atracción de Inversiones Gobierno del Estado de Guanajuato"
-            },                                                           
+            },  
+            {
+                name: "Gerardo Romero",
+                photo: "/speakers/gerardo_romero.webp",
+                position: "Director General Grupo ASTEC"
+            },                                                          
         ]
     },
     {
@@ -175,12 +181,12 @@ const program : Program[] = [
         speakers: [
             {
                 name: "Aldelmo Emmanuel Reyes Pablo",
-                photo: "/speakers/profile.svg",
+                photo: "/speakers/aldo_emmanuel.webp",
                 position: "Subsecretario de Educación Media Superior y Superior"
             },
             {
                 name: "Ricardo Narváez Martínez",
-                photo: "/speakers/ricardo_narvaez.webp",
+                photo: "/speakers/ricardo_narvaez_pt.webp",
                 position: "Rector de la Universidad Virtual del Estado de Guanajuato"
             },
             {
@@ -190,12 +196,12 @@ const program : Program[] = [
             },  
             {
                 name: "Jorge de Jesús Lozoya Santos",
-                photo: "/speakers/jesus_lozoya.webp",
+                photo: "/speakers/jesus_lozoya_pt.webp",
                 position: "Profesor Investigador de GI • EIC Mecatrónica del ITM Campus Monterrey"
             },
             {
                 name: "Ernesto Lugo Ledesma",
-                photo: "/speakers/ernesto_ledesma.webp",
+                photo: "/speakers/ernesto_lugo.webp",
                 position: "Rector del TecNM en Celaya"
             }                                      
         ]

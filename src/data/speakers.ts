@@ -97,14 +97,14 @@ const speaker: Speaker[] = [
     ],
     position: "Presidente del Cluster Automotriz de Guanajuato - CLAUGTO",
   },
-  {
-    name: "Diana Avalos",
-    photo: "/speakers/diana_avalos.webp",
-    profile: [
-      "Diana Manuela Avalos Morales colaboró por más de nueve años como asesora de cambio climático en la Embajada Británica en México, con un enfoque en política climática, movilidad sostenible y finanzas verdes. Durante su estancia en la Embajada fue Gerente de política para la COP26, apoyando la Presidencia del Reino Unido al frente de la Conferencia de las Naciones Unidas sobre Cambio Climático. Antes, formó parte de la práctica de consultoría para sector gobierno en PWC México. Es egresada de la Facultad de Ciencias Políticas y Sociales de la Universidad Nacional Autónoma de México. Actualmente se desempeña como Directora Ejecutiva de la Asociación Mexicana de Impulso al Vehículo Eléctrico (AMIVE).",
-    ],
-    position: "Directora Ejecutiva de la Asociación Mexicana de Impulso al Vehículo Eléctrico - AMIVE",
-  },
+  // {
+  //   name: "Diana Avalos",
+  //   photo: "/speakers/diana_avalos.webp",
+  //   profile: [
+  //     "Diana Manuela Avalos Morales colaboró por más de nueve años como asesora de cambio climático en la Embajada Británica en México, con un enfoque en política climática, movilidad sostenible y finanzas verdes. Durante su estancia en la Embajada fue Gerente de política para la COP26, apoyando la Presidencia del Reino Unido al frente de la Conferencia de las Naciones Unidas sobre Cambio Climático. Antes, formó parte de la práctica de consultoría para sector gobierno en PWC México. Es egresada de la Facultad de Ciencias Políticas y Sociales de la Universidad Nacional Autónoma de México. Actualmente se desempeña como Directora Ejecutiva de la Asociación Mexicana de Impulso al Vehículo Eléctrico (AMIVE).",
+  //   ],
+  //   position: "Directora Ejecutiva de la Asociación Mexicana de Impulso al Vehículo Eléctrico - AMIVE",
+  // },
   {
       name: "Gerardo Romero",
       photo: "/speakers/gerardo_romero.webp",
